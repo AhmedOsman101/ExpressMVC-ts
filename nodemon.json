@@ -1,6 +1,6 @@
 {
-	"execMap": {
-		"ts": "ts-node"
-	},
-	"clear": true
+  "execMap": {
+    "ts": "ts-node"
+  },
+  "clear": true
 }
